@@ -2,6 +2,11 @@
 
 ## Peer-reviewed articles
 
+**2026**
+
+- **Park, H.-L.**, C. Yoo, and coauthors, 2026:
+  Large-Scale Atmospheric Circulation in MIRAE-ESM v1.0: Mean-State Biases and Variability. *in preparation*.
+
 **2021**
 
 - **Park, H.-L.**, K.-H. Seo, B.-M. Kim, J.-Y. Kim, and S.-Y. S. Wang, 2021:
